@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+assets/cache/
+assets/generated/
+assets/renders/
+state/projects/
+state/registry/
+coverage/
+.DS_Store
